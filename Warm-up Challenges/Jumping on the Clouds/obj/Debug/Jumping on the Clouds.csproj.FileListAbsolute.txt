@@ -1,0 +1,5 @@
+C:\Users\benar\RiderProjects\HackerRank Solutions\Warm-up Challenges\Jumping on the Clouds\bin\Debug\Jumping_on_the_Clouds.exe
+C:\Users\benar\RiderProjects\HackerRank Solutions\Warm-up Challenges\Jumping on the Clouds\bin\Debug\Jumping_on_the_Clouds.pdb
+C:\Users\benar\RiderProjects\HackerRank Solutions\Warm-up Challenges\Jumping on the Clouds\obj\Debug\Jumping on the Clouds.csprojResolveAssemblyReference.cache
+C:\Users\benar\RiderProjects\HackerRank Solutions\Warm-up Challenges\Jumping on the Clouds\obj\Debug\Jumping_on_the_Clouds.exe
+C:\Users\benar\RiderProjects\HackerRank Solutions\Warm-up Challenges\Jumping on the Clouds\obj\Debug\Jumping_on_the_Clouds.pdb

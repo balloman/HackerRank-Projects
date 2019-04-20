@@ -1,0 +1,5 @@
+C:\Users\benar\RiderProjects\HackerRank Solutions\Warm-up Challenges\Counting Valleys\bin\Debug\Counting_Valleys.exe
+C:\Users\benar\RiderProjects\HackerRank Solutions\Warm-up Challenges\Counting Valleys\bin\Debug\Counting_Valleys.pdb
+C:\Users\benar\RiderProjects\HackerRank Solutions\Warm-up Challenges\Counting Valleys\obj\Debug\Counting Valleys.csprojResolveAssemblyReference.cache
+C:\Users\benar\RiderProjects\HackerRank Solutions\Warm-up Challenges\Counting Valleys\obj\Debug\Counting_Valleys.exe
+C:\Users\benar\RiderProjects\HackerRank Solutions\Warm-up Challenges\Counting Valleys\obj\Debug\Counting_Valleys.pdb

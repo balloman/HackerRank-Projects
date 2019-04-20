@@ -1,0 +1,5 @@
+C:\Users\benar\RiderProjects\HackerRank Solutions\Sock Merchant\bin\Debug\Sock_Merchant.exe
+C:\Users\benar\RiderProjects\HackerRank Solutions\Sock Merchant\bin\Debug\Sock_Merchant.pdb
+C:\Users\benar\RiderProjects\HackerRank Solutions\Sock Merchant\obj\Debug\Sock Merchant.csprojResolveAssemblyReference.cache
+C:\Users\benar\RiderProjects\HackerRank Solutions\Sock Merchant\obj\Debug\Sock_Merchant.exe
+C:\Users\benar\RiderProjects\HackerRank Solutions\Sock Merchant\obj\Debug\Sock_Merchant.pdb

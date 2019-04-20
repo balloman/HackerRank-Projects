@@ -1,0 +1,5 @@
+C:\Users\benar\RiderProjects\HackerRank Solutions\Warm-up Challenges\Repeated String\bin\Debug\Repeated_String.exe
+C:\Users\benar\RiderProjects\HackerRank Solutions\Warm-up Challenges\Repeated String\bin\Debug\Repeated_String.pdb
+C:\Users\benar\RiderProjects\HackerRank Solutions\Warm-up Challenges\Repeated String\obj\Debug\Repeated String.csprojResolveAssemblyReference.cache
+C:\Users\benar\RiderProjects\HackerRank Solutions\Warm-up Challenges\Repeated String\obj\Debug\Repeated_String.exe
+C:\Users\benar\RiderProjects\HackerRank Solutions\Warm-up Challenges\Repeated String\obj\Debug\Repeated_String.pdb

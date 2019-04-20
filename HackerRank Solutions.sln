@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sock Merchant", "Sock Merchant\Sock Merchant.csproj", "{CF1C9544-6FFC-4905-B454-0F1C245F2E7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Warm-up Challenges", "Warm-up Challenges", "{1B85D45B-376D-4509-A25D-FC43C1548A2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting Valleys", "Warm-up Challenges\Counting Valleys\Counting Valleys.csproj", "{33D2BC3C-7895-4E03-8EDE-40BC2734FE56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jumping on the Clouds", "Warm-up Challenges\Jumping on the Clouds\Jumping on the Clouds.csproj", "{B729C3ED-5C5C-442A-AC7B-6B69B3FE680E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeated String", "Warm-up Challenges\Repeated String\Repeated String.csproj", "{460B27C9-EC1A-42F1-A2E2-A7F1F757BED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF1C9544-6FFC-4905-B454-0F1C245F2E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1C9544-6FFC-4905-B454-0F1C245F2E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1C9544-6FFC-4905-B454-0F1C245F2E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1C9544-6FFC-4905-B454-0F1C245F2E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33D2BC3C-7895-4E03-8EDE-40BC2734FE56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D2BC3C-7895-4E03-8EDE-40BC2734FE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D2BC3C-7895-4E03-8EDE-40BC2734FE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D2BC3C-7895-4E03-8EDE-40BC2734FE56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B729C3ED-5C5C-442A-AC7B-6B69B3FE680E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B729C3ED-5C5C-442A-AC7B-6B69B3FE680E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B729C3ED-5C5C-442A-AC7B-6B69B3FE680E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B729C3ED-5C5C-442A-AC7B-6B69B3FE680E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{460B27C9-EC1A-42F1-A2E2-A7F1F757BED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460B27C9-EC1A-42F1-A2E2-A7F1F757BED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460B27C9-EC1A-42F1-A2E2-A7F1F757BED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460B27C9-EC1A-42F1-A2E2-A7F1F757BED8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{33D2BC3C-7895-4E03-8EDE-40BC2734FE56} = {1B85D45B-376D-4509-A25D-FC43C1548A2D}
+		{B729C3ED-5C5C-442A-AC7B-6B69B3FE680E} = {1B85D45B-376D-4509-A25D-FC43C1548A2D}
+		{460B27C9-EC1A-42F1-A2E2-A7F1F757BED8} = {1B85D45B-376D-4509-A25D-FC43C1548A2D}
+		{CF1C9544-6FFC-4905-B454-0F1C245F2E7E} = {1B85D45B-376D-4509-A25D-FC43C1548A2D}
+	EndGlobalSection
+EndGlobal
